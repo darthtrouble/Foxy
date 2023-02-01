@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: "Assets/Scenes/Giri\u015F.unity"
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/2.Bolum.unity
+    guid: 84d844564da1c5e4ca33f075a425c8af
   m_configObjects: {}
